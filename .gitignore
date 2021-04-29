@@ -1,4 +1,2 @@
 .testing/
-.gitignore
-.gitattributes
 __pycache__/

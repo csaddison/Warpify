@@ -2,7 +2,8 @@
 ### Creating slit-scan and time-displacement effects
 -------
 
-![Warpify Demo](\images\demo.gif)
+<!-- ![Warpify Demo](\images\demo.gif) -->
+![Warpify Demo](https://github.com/csaddison/Slit-Scan-Compositing/blob/main/images/demo.gif)
 
 Warpify provides a simple CLI to warp and save videos. Simply launch the application with `python warpify.py` to get started. Alternatively, warpify also provides direct access to it's inner functions for use in your own projects. A simple case could look like this:
 
